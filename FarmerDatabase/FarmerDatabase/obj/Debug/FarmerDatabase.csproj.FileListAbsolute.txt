@@ -1,0 +1,60 @@
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.exe.config
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.exe
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.pdb
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.AssemblyReference.cache
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form1.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Properties.Resources.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.GenerateResource.cache
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.CoreCompileInputs.cache
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.exe
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.pdb
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form2.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form3.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form4.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form5.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form6.resources
+D:\Veritabanı_Project\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form7.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.exe.config
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.exe
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.pdb
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.AssemblyReference.cache
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form1.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form2.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form3.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form4.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form5.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form6.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form7.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Properties.Resources.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.GenerateResource.cache
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.CoreCompileInputs.cache
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.exe
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.pdb
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form8.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form9.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\Guna.UI2.dll
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.CopyComplete
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form10.resources
+C:\Users\SALİHA NUR\Desktop\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form11.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.exe.config
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.exe
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\FarmerDatabase.pdb
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\bin\Debug\Guna.UI2.dll
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form1.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form10.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form11.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form2.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form3.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form4.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form5.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form6.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form7.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form8.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Form9.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.Properties.Resources.resources
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.csproj.CopyComplete
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.exe
+C:\Users\Asus\Desktop\Farmer_Project\FarmerDatabase (1)\FarmerDatabase\FarmerDatabase\obj\Debug\FarmerDatabase.pdb
